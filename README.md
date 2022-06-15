@@ -1,3 +1,2 @@
 # odin-recipes
-a basic recipe website
-A basic recipe website, my HTML knowledge will be put to the test with this project.
+A basic recipe website, created by using previously learned HTML knowledge from the Odin Project curriculum.
